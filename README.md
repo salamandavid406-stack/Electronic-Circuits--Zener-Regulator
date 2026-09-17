@@ -1,5 +1,5 @@
 # Electronic-Circuits--Zener-Regulator
-## AIM:
+## AIM: 
 To implement a Zener Voltage regulator and to obtain the output for variable loads and variable input voltages.
 ## APPARATUS REQUIRED:
 1. Regulated Power Supply(0-30)V
